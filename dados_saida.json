@@ -1,0 +1,665 @@
+[
+    {
+        "id": "ufba-74686320909",
+        "agrupador": "UFBA",
+        "tipoPessoa": "Física",
+        "nome": "Benedita Raimunda Lorena Rezende",
+        "cpf": "74686320909",
+        "dataNascimento": "14/02/2001",
+        "Tipo": "I",
+        "enderecos": [
+            {
+                "cep": "87309710",
+                "logradouro": "Rua Nelson Behrens",
+                "bairro": "Jardim Silvana",
+                "cidade": "Campo Mourão",
+                "numero": "382",
+                "uf": "PR"
+            }
+        ],
+        "emails": [
+            {
+                "email": "benedita_raimunda_rezende@eletrotex.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "44",
+                "telefone": "999201842"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 3,
+                "coluna": 1,
+                "valor": "74686320909"
+            },
+            {
+                "campo": "registro_aluno",
+                "linha": 3,
+                "coluna": 1,
+                "valor": 720462
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 3,
+                "coluna": 1,
+                "valor": "Benedita Raimunda Lorena Rezende"
+            }
+        ]
+    },
+    {
+        "id": "unicamp-18055390193",
+        "agrupador": "UNICAMP",
+        "tipoPessoa": "Direito",
+        "nome": "Fábio Julio Theo Rodrigues",
+        "cpf": "18055390193",
+        "dataNascimento": "08/01/1993",
+        "Tipo": "I",
+        "enderecos": [
+            {
+                "cep": "59604155",
+                "logradouro": "Rua Coronel Fausto",
+                "bairro": "Lagoa do Mato",
+                "cidade": "Mossoró",
+                "numero": "137",
+                "uf": "RN"
+            }
+        ],
+        "emails": [
+            {
+                "email": "fabio_rodrigues@soupelli.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "84",
+                "telefone": "986066462"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 6,
+                "coluna": 1,
+                "valor": "18055390193"
+            },
+            {
+                "campo": "registro_aluno",
+                "linha": 6,
+                "coluna": 1,
+                "valor": 504901
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 6,
+                "coluna": 1,
+                "valor": "Fábio Julio Theo Rodrigues"
+            }
+        ]
+    },
+    {
+        "id": "usp-54231533601",
+        "agrupador": "USP",
+        "tipoPessoa": "Biologia",
+        "nome": "Raquel Flávia Luzia Campos",
+        "cpf": "54231533601",
+        "dataNascimento": "08/02/1988",
+        "Tipo": "I",
+        "enderecos": [
+            {
+                "cep": "53650180",
+                "logradouro": "Rua Suiça",
+                "bairro": "Bela Vista",
+                "cidade": "Igarassu",
+                "numero": "446",
+                "uf": "PE"
+            }
+        ],
+        "emails": [
+            {
+                "email": "raquel.flavia.campos@infortec.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "81",
+                "telefone": "997622419"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 7,
+                "coluna": 1,
+                "valor": "54231533601"
+            },
+            {
+                "campo": "registro_aluno",
+                "linha": 7,
+                "coluna": 1,
+                "valor": 657179
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 7,
+                "coluna": 1,
+                "valor": "Raquel Flávia Luzia Campos"
+            }
+        ]
+    },
+    {
+        "id": "ufpr-56862426745",
+        "agrupador": "UFPR",
+        "tipoPessoa": "Letras",
+        "nome": "César Roberto Castro",
+        "cpf": "56862426745",
+        "dataNascimento": "09/01/1988",
+        "Tipo": "A",
+        "enderecos": [
+            {
+                "cep": "86191470",
+                "logradouro": "Rua Reinaldo Resquetti",
+                "bairro": "Jardim Boa Vista",
+                "cidade": "Cambé",
+                "numero": "165",
+                "uf": "PR"
+            }
+        ],
+        "emails": [
+            {
+                "email": "cesar-castro95@vectrausinagem.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "43",
+                "telefone": "992311491"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 8,
+                "coluna": 1,
+                "valor": "56862426745"
+            },
+            {
+                "campo": "registro_aluno",
+                "linha": 8,
+                "coluna": 1,
+                "valor": 533964
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 8,
+                "coluna": 1,
+                "valor": "César Roberto Castro"
+            }
+        ]
+    },
+    {
+        "id": "usp-46652259400",
+        "agrupador": "USP",
+        "tipoPessoa": "Matemática",
+        "nome": "Carolina Luzia Pinto",
+        "cpf": "46652259400",
+        "dataNascimento": "16/01/1980",
+        "Tipo": "I",
+        "enderecos": [
+            {
+                "cep": "09134690",
+                "logradouro": "Rua Catitu",
+                "bairro": "Cidade Recreio da Borda do Campo",
+                "cidade": "Santo André",
+                "numero": "244",
+                "uf": "SP"
+            }
+        ],
+        "emails": [
+            {
+                "email": "carolina.luzia.pinto@ceviu.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "11",
+                "telefone": "995337515"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 9,
+                "coluna": 1,
+                "valor": "46652259400"
+            },
+            {
+                "campo": "registro_aluno",
+                "linha": 9,
+                "coluna": 1,
+                "valor": 586615
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 9,
+                "coluna": 1,
+                "valor": "Carolina Luzia Pinto"
+            }
+        ]
+    },
+    {
+        "id": "ufba-67261458104",
+        "agrupador": "UFBA",
+        "tipoPessoa": "Adiministração ",
+        "nome": "Gabriela Kamilly Fernandes",
+        "cpf": "67261458104",
+        "dataNascimento": "03/06/1981",
+        "Tipo": "I",
+        "enderecos": [
+            {
+                "cep": "41345240",
+                "logradouro": "Caminho 17-Setor 04",
+                "bairro": "Cajazeiras",
+                "cidade": "Salvador",
+                "numero": "605",
+                "uf": "BA"
+            }
+        ],
+        "emails": [
+            {
+                "email": "gabriela_kamilly_fernandes@compecia.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "71",
+                "telefone": "995243132"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 10,
+                "coluna": 1,
+                "valor": "67261458104"
+            },
+            {
+                "campo": "registro_aluno",
+                "linha": 10,
+                "coluna": 1,
+                "valor": 716203
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 10,
+                "coluna": 1,
+                "valor": "Gabriela Kamilly Fernandes"
+            }
+        ]
+    },
+    {
+        "id": "unicamp-41402042906",
+        "agrupador": "UNICAMP",
+        "tipoPessoa": "Direito",
+        "nome": "André Gustavo Galvão",
+        "cpf": "41402042906",
+        "dataNascimento": "02/05/1952",
+        "Tipo": "I",
+        "enderecos": [
+            {
+                "cep": "74993530",
+                "logradouro": "Avenida Maria Elias Lisboa Santos",
+                "bairro": "Jardim Helian",
+                "cidade": "São Paulo",
+                "numero": "385",
+                "uf": "SP"
+            }
+        ],
+        "emails": [
+            {
+                "email": "andre.gustavo.galvao@torah.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "62",
+                "telefone": "999665332"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 12,
+                "coluna": 1,
+                "valor": "41402042906"
+            },
+            {
+                "campo": "registro_aluno",
+                "linha": 12,
+                "coluna": 1,
+                "valor": 991884
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 12,
+                "coluna": 1,
+                "valor": "André Gustavo Galvão"
+            }
+        ]
+    },
+    {
+        "id": "unicamp-58367221028",
+        "agrupador": "UNICAMP",
+        "tipoPessoa": "Engenharia",
+        "nome": "Pedro Renato Thomas Sales",
+        "cpf": "58367221028",
+        "dataNascimento": "15/01/1993",
+        "Tipo": "I",
+        "enderecos": [
+            {
+                "cep": "08265070",
+                "logradouro": "Rua Guilherme da Cruz",
+                "bairro": "Parque Industrial Vice-Presidente José Alencar",
+                "cidade": "Aparecida de Goiânia",
+                "numero": "718",
+                "uf": "GO"
+            }
+        ],
+        "emails": [
+            {
+                "email": "pedro.renato.sales@rodrigofranco.com"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "11",
+                "telefone": "987589786"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 13,
+                "coluna": 1,
+                "valor": "58367221028"
+            },
+            {
+                "campo": "registro_aluno",
+                "linha": 13,
+                "coluna": 1,
+                "valor": 133682
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 13,
+                "coluna": 1,
+                "valor": "Pedro Renato Thomas Sales"
+            }
+        ]
+    },
+    {
+        "id": "unicamp-74154779109",
+        "agrupador": "UNICAMP",
+        "tipoPessoa": "Engenharia",
+        "nome": "Gael Enrico Theo Baptista",
+        "cpf": "74154779109",
+        "dataNascimento": "13/03/1998",
+        "Tipo": "I",
+        "enderecos": [
+            {
+                "cep": "45607148",
+                "logradouro": "2ª Travessa Santo Antonio",
+                "bairro": "Del Lago I (Itapoã)",
+                "cidade": "Brasília",
+                "numero": "930",
+                "uf": "DF"
+            }
+        ],
+        "emails": [
+            {
+                "email": "gael_baptista@mcpsolucoesgraficas.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "73",
+                "telefone": "985284335"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 14,
+                "coluna": 1,
+                "valor": "74154779109"
+            },
+            {
+                "campo": "registro_aluno",
+                "linha": 14,
+                "coluna": 1,
+                "valor": 364479
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 14,
+                "coluna": 1,
+                "valor": "Gael Enrico Theo Baptista"
+            }
+        ]
+    },
+    {
+        "id": "ufrj-47401084961",
+        "agrupador": "UFRJ",
+        "tipoPessoa": "Biologia",
+        "nome": "Heitor Fernando Murilo Ramos",
+        "cpf": "47401084961",
+        "dataNascimento": "01/01/2000",
+        "Tipo": "I",
+        "enderecos": [
+            {
+                "cep": "99042085",
+                "logradouro": "Rua Antônio Cesar",
+                "bairro": "Vera Cruz",
+                "cidade": "Passo Fundo",
+                "numero": "279",
+                "uf": "RS"
+            }
+        ],
+        "emails": [
+            {
+                "email": "heitorfernandoramos@live.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "54",
+                "telefone": "984296580"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 17,
+                "coluna": 1,
+                "valor": "47401084961"
+            },
+            {
+                "campo": "registro_aluno",
+                "linha": 17,
+                "coluna": 1,
+                "valor": 786470
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 17,
+                "coluna": 1,
+                "valor": "Heitor Fernando Murilo Ramos"
+            }
+        ]
+    },
+    {
+        "id": "ufrj-29173074390",
+        "agrupador": "UFRJ",
+        "tipoPessoa": "Economia",
+        "nome": "Elisa Rayssa Bianca Duarte",
+        "cpf": "29173074390",
+        "dataNascimento": "13/05/2000",
+        "Tipo": "I",
+        "enderecos": [
+            {
+                "cep": "79015370",
+                "logradouro": "Rua Luíz Roncolatto",
+                "bairro": "Jardim Presidente",
+                "cidade": "Campo Grande",
+                "numero": "470",
+                "uf": "MS"
+            }
+        ],
+        "emails": [
+            {
+                "email": "elisa.rayssa.duarte@powerblade.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "67",
+                "telefone": "985918693"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 18,
+                "coluna": 1,
+                "valor": "29173074390"
+            },
+            {
+                "campo": "registro_aluno",
+                "linha": 18,
+                "coluna": 1,
+                "valor": 141017
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 18,
+                "coluna": 1,
+                "valor": "Elisa Rayssa Bianca Duarte"
+            }
+        ]
+    },
+    {
+        "id": "ufrj-04012272195",
+        "agrupador": "UFRJ",
+        "tipoPessoa": "Direito",
+        "nome": "Bruno Anderson Enzo da Mata",
+        "cpf": "04012272195",
+        "dataNascimento": "04/02/1973",
+        "Tipo": "I",
+        "enderecos": [
+            {
+                "cep": "64052150",
+                "logradouro": "Rua Coronel Belisário da Cunha",
+                "bairro": "São Cristóvão",
+                "cidade": "Teresina",
+                "numero": "656",
+                "uf": "PI"
+            }
+        ],
+        "emails": [
+            {
+                "email": "bruno_damata@aerobravo.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "86",
+                "telefone": "983162103"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 19,
+                "coluna": 1,
+                "valor": "04012272195"
+            },
+            {
+                "campo": "registro_aluno",
+                "linha": 19,
+                "coluna": 1,
+                "valor": 780593
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 19,
+                "coluna": 1,
+                "valor": "Bruno Anderson Enzo da Mata"
+            }
+        ]
+    },
+    {
+        "id": "ufrj-46547901360",
+        "agrupador": "UFRJ",
+        "tipoPessoa": "Direito",
+        "nome": "Eliane Sarah Silveira",
+        "cpf": "46547901360",
+        "dataNascimento": "21/01/1982",
+        "Tipo": "I",
+        "enderecos": [
+            {
+                "cep": "61608255",
+                "logradouro": "Rua Cacique Alberto",
+                "bairro": "Parque Soledade",
+                "cidade": "Caucaia",
+                "numero": "706",
+                "uf": "CE"
+            }
+        ],
+        "emails": [
+            {
+                "email": "elianesarahsilveira@comdados.com"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "85",
+                "telefone": "994833659"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 20,
+                "coluna": 1,
+                "valor": "46547901360"
+            },
+            {
+                "campo": "registro_aluno",
+                "linha": 20,
+                "coluna": 1,
+                "valor": 703193
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 20,
+                "coluna": 1,
+                "valor": "Eliane Sarah Silveira"
+            }
+        ]
+    }
+]
